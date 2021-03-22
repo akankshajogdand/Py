@@ -1,2 +1,2 @@
 # Py
-All python assignments in the project directory.
+All python assignments in the assignments directory.
